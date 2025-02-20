@@ -58,6 +58,6 @@ class Person(
         if (user_id := self._config.get(CONF_USER_ID)) is not None:
             data[ATTR_USER_ID] = user_id
 
-            data[ATTR_TEST] = "TEST"
+        data[ATTR_TEST] = "TEST"
 
         self._attr_extra_state_attributes = data
