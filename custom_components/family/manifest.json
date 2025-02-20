@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@ChrisAllen1982"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/ChrisAllen1982/family/",
+  "domain": "family",
+  "iot_class": "assumed_state",
+  "name": "Family",
+  "requirements": [],
+  "version": "0.0.1"
+}
